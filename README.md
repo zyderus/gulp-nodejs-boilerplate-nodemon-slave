@@ -1,2 +1,2 @@
-Gulp Boilerplate for Node Applications
-###with Nodemon Control
+# Gulp Boilerplate for Node Applications
+### with Nodemon Control
